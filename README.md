@@ -5,7 +5,7 @@ Components
 
 1.	LM2596 Regulator (1)
 
-![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/image/LM2596%20Regulator.jpg=250x)
+![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/image/LM2596%20Regulator.jpg)
 
 2.	XL4005 Regulator (4) 
 

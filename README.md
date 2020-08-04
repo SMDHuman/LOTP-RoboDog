@@ -5,11 +5,16 @@ Components
 
 1.	LM2596 Regulator (1)
 
-![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/images/S%-%LM2596%Regulator.jpg)
+![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20LM2596%20Regulator.jpg)
 
 2.	XL4005 Regulator (4) 
 
+![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20XL4005%20Regulator.jpg)
+
 3.	WaveShare Servo Driver HAT PCA9685 16 Channel 12 Bit PWM Driver for Raspberry PI (1) 
+
+![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20WaveShare%20Servo%20Driver%20HAT%20PCA9685%2016%20Channel%2012%20Bit%20PWM%20Driver.jpg)
+
 
 4.	Raspberry PI (1)
 

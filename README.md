@@ -1,7 +1,7 @@
 # LOTP RoboDog Prototype-1
 This is my first quadropod robotic project which has still lots of things to do. I would like to share STL files, descriptions, components, instructions. But please be aware that this is just a test project which helps me to learn fundementals of this science, and which prepares myself for second prototype.
 
-Components
+# Components
 
 1.	LM2596 Regulator (1 piece)
 
@@ -29,13 +29,15 @@ Components
 
 7.	Power Distrubutor Board (Custom PCB Design) (1 piece)
 
-![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20Power%20Distrubutor%20Board%20(Custom%20PCB%20Design)1-1.jpg)
-![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20Power%20Distrubutor%20Board%20(Custom%20PCB%20Design) 1-2.jpg)
+![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20Power%20Distrubutor%20Board%20(Custom%20PCB%20Design1-1.jpg)
+
+![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20Power%20Distrubutor%20Board%20(Custom%20PCB%20Design)%202-2.jpg)
 
 8.	Power Distrubutor Board (Custom PCB Design) (2 pieces)
 
-![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20Power%20Distrubutor%20Board%20(Custom%20PCB%20Design) 2-1.jpg)
-![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20Power%20Distrubutor%20Board%20(Custom%20PCB%20Design) 2-2.jpg)
+![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20Power%20Distrubutor%20Board%20(Custom%20PCB%20Design)%202-1.jpg)
+
+![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20Power%20Distrubutor%20Board%20(Custom%20PCB%20Design)%202-2.jpg)
 
 
 

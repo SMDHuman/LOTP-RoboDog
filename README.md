@@ -21,7 +21,7 @@ Youtube : [Limenitis Reducta](https://www.youtube.com/channel/UCfY4QudfnPH8X3gaX
 
 ![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20Raspberry%20PI.jpg)
 
-5.	Profuse 2S 25C 850 mAh Li Po Batary (2 pieces)
+5.	Profuse 2S 25C 850 mAh Li Po Battery (2 pieces)
 
 ![PCB](https://github.com/SMDHuman/LOTP-RoboDog/blob/master/Images/S%20-%20Profuse%202S%2025C%20850%20mAh%20Li%20Po%20Batary.jpg)
 
